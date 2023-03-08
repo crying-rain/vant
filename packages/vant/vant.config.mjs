@@ -344,6 +344,10 @@ location.href = location.href.replace('youzan.github.io', 'vant-ui.github.io');
                 path: 'text-ellipsis',
                 title: 'TextEllipsis 文本省略',
               },
+              {
+                path: 'count-to',
+                title: 'CountTo 数字滚动',
+              },
             ],
           },
           {
@@ -783,6 +787,10 @@ location.href = location.href.replace('youzan.github.io', 'vant-ui.github.io');
               {
                 path: 'text-ellipsis',
                 title: 'TextEllipsis',
+              },
+              {
+                path: 'count-to',
+                title: 'CountTo',
               },
             ],
           },
