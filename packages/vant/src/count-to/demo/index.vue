@@ -9,8 +9,8 @@ const t = useTranslate({
     customStyle: '自定义样式',
   },
   'en-US': {
-    decimals: 'decimals',
-    separator: 'Thousands Separator',
+    decimals: 'Decimals',
+    thousandsSeparator: 'Thousands Separator',
     customStyle: 'Custom Style',
   },
 });
